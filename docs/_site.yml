@@ -1,8 +1,8 @@
 name: "docs"
 title: "Machine Learning with In"
 favicon: images/favicon.png
-base_url: https://leehoo1928.github.io/MachineLearning
-repository_url: https://github.com/leehoo1928/MachineLearning
+base_url: https://leehoo1928.github.io/ML
+repository_url: https://github.com/leehoo1928/ML
 creative_commons: CC BY
 output_dir: "."
 navbar:
