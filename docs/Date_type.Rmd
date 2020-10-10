@@ -30,15 +30,12 @@ head(tbl_iris)
 ```
 
 
-
-
-
 # **데이터 불러오기**
 
 ## **iris 데이터**
 
 
-![](iris.PNG){width=45%}
+![](images/iris.png){width=45%}
 
 
 * 1936년 Edger Anderson이 캐나다 동부 지역의 가스페 반도에 서식하는 붓꽃을 수집
