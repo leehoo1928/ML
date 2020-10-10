@@ -12,7 +12,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "R code"
-      href: TTT.html
+      href: 
 output:
   distill::distill_article:
     css: styles.css
