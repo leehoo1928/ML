@@ -1,0 +1,14 @@
+name: "docs"
+title: "Machine Learning with In"
+description: |
+  Machine Learning with In
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "R code"
+      href: TTT.html
+output: distill::distill_article

@@ -1,0 +1,28 @@
+name: "Rhub"
+title: "Data Mining"
+favicon: images/favicon.png
+base_url: https://Ljwook92.github.io/Rhub
+repository_url: https://github.com/Ljwook92/Rhub
+creative_commons: CC BY
+output_dir: "."
+navbar:
+  right:
+    - text: "Home"
+      href: index.html  
+    - text: "Study"
+      menu: 
+        - text: "Data Mining"
+          href: Study.html
+        - text: "Cross validation and out of bag"
+          href: Cross-validation-and-out-of-bag.html
+        - text: "Text Mining"
+          href: Textmining-part1.html
+    - text: "About"
+      href: about.html
+    - icon: fab fa-github
+      href: https://github.com/Ljwook92/Rhub  
+output:
+  distill::distill_article:
+    css: styles.css
+    highlight: rstudio
+    toc: true
